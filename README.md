@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ROSHAN1223
-- 👀 I’m interested in Learning coding and developing apps and website
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on making app and design a website
+- 👀 I’m interested in Learning coding and Data Analyzing
+- 🌱 I’m currently learning Power BI
+- 💞️ I’m looking to collaborate on making Dashboard on Power BI
 - 📫 How to reach me through gti hub
 
 <!---
